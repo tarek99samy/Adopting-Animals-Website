@@ -7,11 +7,11 @@
 #### First run the following command to install the dependencies of the project
 
 ```code
-            npm install
+npm install
 ```
 
 #### Then run the following command and open _http://localhost:1234_
 
 ```code
-            npm run dev
+npm run dev
 ```
