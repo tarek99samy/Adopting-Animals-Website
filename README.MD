@@ -10,7 +10,7 @@
 npm install
 ```
 
-#### Then run the following command and open _http://localhost:1234_
+#### Then run the following command and open the link that will appear which usually should be _http://localhost:1234_
 
 ```code
 npm run dev
